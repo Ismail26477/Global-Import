@@ -101,11 +101,11 @@ export default function Footer() {
                   <p className="font-semibold text-base">Email</p>
                 </div>
                 <a
-                  href="mailto:globalimports.worldwide@gmail.com"
+                  href="mailto:globalimportsworldwide@gmail.com"
                   className="text-white/60 hover:text-primary transition-colors duration-300 text-sm break-all flex items-center gap-2 group"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
-                    globalimports.worldwide@gmail.com
+                    globalimportsworldwide@gmail.com
                   </span>
                   <ArrowRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" />
                 </a>
