@@ -31,10 +31,10 @@ export default function EnquirySection() {
   }
 
   const teamMembers = [
-    { name: "Ankush Gondhi", phone: "9011675422" },
-    { name: "Sagar Gondhi", phone: "8850782296" },
-    { name: "Sarthur Gondhi", phone: "8446927070991" },
-    { name: "Vimal Gondhi", phone: "9023982301921" },
+    { name: "Ankush Gandhi", phone: "9011675422" },
+    { name: "Sagar Gandhi", phone: "8850782296" },
+    { name: "Sarthur Gandhi", phone: "8446927070991" },
+    { name: "Vimal Gandhi", phone: "9023982301921" },
   ]
 
   return (
