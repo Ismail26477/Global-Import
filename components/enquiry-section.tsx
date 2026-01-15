@@ -60,7 +60,7 @@ export default function EnquirySection() {
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
                   <a
-                    href="mailto:globalimports.worldwide@gmail.com"
+                    href="mailto:globalimportsworldwide@gmail.com"
                     className="text-primary font-semibold hover:underline"
                   >
                     globalimportsworldwide@gmail.com
