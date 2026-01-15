@@ -75,7 +75,7 @@ export default function EnquirySection() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="font-semibold text-foreground">Nagpur, India</p>
+                  <p className="font-semibold text-foreground">Nagpur, Maharashtra, India</p>
                 </div>
               </div>
 
