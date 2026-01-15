@@ -63,7 +63,7 @@ export default function EnquirySection() {
                     href="mailto:globalimports.worldwide@gmail.com"
                     className="text-primary font-semibold hover:underline"
                   >
-                    globalimports.worldwide@gmail.com
+                    globalimportsworldwide@gmail.com
                   </a>
                 </div>
               </div>
