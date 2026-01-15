@@ -7,10 +7,10 @@ export default function Footer() {
   const currentYear = new Date().getFullYear()
 
   const contacts = [
-    { name: "Ankush Gondhi", phone: "9011675422" },
-    { name: "Sagar Gondhi", phone: "8830782296" },
-    { name: "Sarthur Gondhi", phone: "8144629270109911" },
-    { name: "Vimal Gondhi", phone: "9023982230521" },
+    { name: "Ankush Gandhi", phone: "9011675422" },
+    { name: "Sagar Gandhi", phone: "8830782296" },
+    { name: "Sarthur Gandhi", phone: "8144629270109911" },
+    { name: "Vimal Gandhi", phone: "9023982230521" },
   ]
 
   const footerLinks = {
